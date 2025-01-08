@@ -22,7 +22,7 @@
 <h3 align='center'>🛠 Skills Used Recently</h2>
 <div align='center'>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=2)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=3)](https://skillicons.dev)
   
 </div>
 <div align='center'>
@@ -37,7 +37,7 @@
 <h3 align='center'>📚 Skills & Tools Used in Projects</h2>
 <div align='center'>
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,firebase,redux,php,babel,py,androidstudio,flutter,dart,kotlin,mongodb,sass&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,dotnet,firebase,redux,php,babel,py,androidstudio,flutter,dart,kotlin,mongodb&perline=6)](https://skillicons.dev)
   
 </div>
 <br/><br/>
