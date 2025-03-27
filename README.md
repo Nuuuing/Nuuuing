@@ -5,13 +5,6 @@
 
 </div>
 <hr/><br/>
-<div align='center'>
-  <span> 안녕하세요! 김수진입니다. </span><br/>
-  <span> 저는 웹 개발자로 2년간 근무하며 다양한 프로젝트를 경험했습니다. </span> <br/>
-  <span> 최근에는 Unity 개발에 관심을 갖고 관련 프로젝트를 진행하고 있습니다. </span><br/>
-  <span> 저에 대해 더 알고 싶으시다면 포트폴리오를 확인하시거나 편하게 연락 주세요. </span><br/>
-  <span> 감사합니다 :) </span>
-</div>
 <br/>
 <div align='center'>
   <a style="text-decoration: none; color: inherit;" href="https://nuuuing.github.io/sujin_portfolio/"><span>🔗 Portfolio</span></a><br/>
