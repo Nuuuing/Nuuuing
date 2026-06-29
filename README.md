@@ -7,30 +7,25 @@
 <hr/><br/>
 <br/>
 <div align='center'>
-  <a style="text-decoration: none; color: inherit;" href="https://nuuuing.github.io/sujin_portfolio/"><span>🔗 Portfolio</span></a><br/>
+  <a style="text-decoration: none; color: inherit;" href="https://sujin-portfolio.web.app/"><span>🔗 Portfolio</span></a><br/>
   <span>📧 Email : su_042@daum.net</span>
 </div>
 <br/>
 
 <h3 align='center'>🛠 Skills Used Recently</h2>
-<div align='center'>
 
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity&perline=3)](https://skillicons.dev)
-  
-</div>
 <div align='center'>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,js,ts,aws,docker,jenkins,nginx,java,spring,mysql,linux,html,css,jquery&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,js,ts,dotnet,cs,java,spring,mysql,jquery,docker,aws,jenkins,linux,nginx,unity&perline=5)](https://skillicons.dev)
   
 </div>
-
 <br/>
 </div>
 
 <h3 align='center'>📚 Skills & Tools Used in Projects</h2>
 <div align='center'>
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp,dotnet,firebase,redux,php,babel,py,androidstudio,flutter,dart,kotlin,mongodb&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,firebase,redux,php,babel,py,androidstudio,flutter,dart,kotlin,mongodb&perline=6)](https://skillicons.dev)
   
 </div>
 <br/><br/>
